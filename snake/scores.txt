@@ -1,0 +1,15 @@
+a : 0
+joao : 0
+lukinha : 400
+o : 200
+caa : 800
+lla : 1400
+asdas : 200
+asdsad : 800
+asd : 0
+asdadd : 100
+das : 100
+briuor : 2400
+asdd : 700
+asd : 0
+asd : 200
